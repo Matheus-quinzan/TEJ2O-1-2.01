@@ -1,10 +1,11 @@
 """
-Created by: Mr. Coxall
-Created on: Sep 2020
+Created by: Matheus Quinzanls
+
+Created on: Sep 2025
 This module is a Micro:bit MicroPython program
 """
 
 from microbit import *
 
 
-display.scroll("Hello, World!")
+display.scroll("Matheus!")
